@@ -1,0 +1,6 @@
+{
+  "name": "Letra Caixa 3D - 3 Camadas",
+  "description": "Gerador paramétrico MakerWorld de letras caixa em 3 camadas e ponteiras de lápis 3D em 2 cores, com visualização em tempo real e exportação para 3MF Multicolor e STL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
